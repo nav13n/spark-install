@@ -84,7 +84,7 @@ sudo ln -s /usr/local/hadoop-2.8.5 /usr/local/hadoop
 
 ## 1.3. Using a prior installation of Spark+Hadoop
 
-We strongly recommend you update your installation to the must recent version of Spark. As of July 2017 we used Spark 2.2.0 and Hadoop 2.8.5.
+We strongly recommend you update your installation to the must recent version of Spark. As of Oct 2018 we used Spark 2.3.1 and Hadoop 2.8.5.
 
 If you want to use another version there, all you have to do is to locate your installation directories for Spark and Hadoop, and use that in the next section 2.1 for setting up your environment.
 
